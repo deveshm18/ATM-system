@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ATM
+comment0.text=\r\n\ Title\:\ ATM\ interface\r\n\ Author\:\ Arpan\r\n\ Functions\:\ \r\n\ main\ ()\ -\ Invocation\ method\r\n\ validatepin\ ()\ ,\ withdraw_cash(),\ depositbycheque()\ ,\ chech_balance()\ ,\ change_pin()\ -\ other\ member\ methods\r\n
+comment1.params=
+comment1.target=void\ main()
+comment2.params=
+comment2.target=int\ validatepin()
+comment3.params=
+comment3.target=void\ withdraw_cash()
+comment4.params=
+comment4.target=void\ deposit_by_cheque()
+comment5.params=
+comment5.target=void\ check_balance()
+comment6.params=
+comment6.target=void\ change_pin()
+numComments=7
