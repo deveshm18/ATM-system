@@ -1,1 +1,1 @@
-Model ATM system built in java, run atm.java file
+Model ATM system built in java, run atm.java
